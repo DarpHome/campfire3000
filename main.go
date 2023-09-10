@@ -77,6 +77,7 @@ func main() {
 		StartedAt = time.Now().Unix()
 		Logger.Infof("Logged in as: %v#%v", s.State.User.Username, s.State.User.Discriminator)
 	})
+	session.AddHandler(OnMemberJoined)
 	InitializeI18n()
 	if err = session.Open(); err != nil {
 		Logger.Fatal(err)
