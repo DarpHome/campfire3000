@@ -1,0 +1,17 @@
+{
+  "cv3000.Language": "Русский",
+  "cv3000.Pong": "Понг!",
+  "cv3000.PongLatency": "Понг! (заняло %.3[1]g мс)",
+  "cv3000.Error": "Ошибка",
+  "cv3000.Bot": "Бот",
+  "cv3000.Uptime": "Аптайм",
+  "cv3000.DiceResult": "На кубиках выпало %[1]d!",
+  "cv3000.CurrentColor": "(<==): Текущий цвет: #%06[1]X",
+  "cv3000.CurrentLocale": "Текущая локаль: %[1]s",
+  "cv3000.EmbedNewColorDescription": "(<==): Цвет был сменен на #%06[2]X с #%06[1]X.",
+  "cv3000.SwitchLocale": "Язык был переключен на %[1]s.",
+  "cv3000.UnavailableTranslator": "Переводчик не доступен.",
+  "cv3000.TranslationResult": "Результат перевода",
+  "cv3000.DetectedLanguage": "Обнаруженный язык",
+  "cv3000.TranslatedText": "Переведенный текст"
+}

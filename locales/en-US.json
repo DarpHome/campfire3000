@@ -1,0 +1,17 @@
+{
+  "cv3000.Language": "English (American)",
+  "cv3000.Pong": "Pong!",
+  "cv3000.PongLatency": "Pong! (took %.3[1]g ms)",
+  "cv3000.Error": "Error",
+  "cv3000.Bot": "Bot",
+  "cv3000.Uptime": "Uptime",
+  "cv3000.DiceResult": "The dice rolled %[1]d!",
+  "cv3000.CurrentColor": "(<==): Current color is: #%06[1]X",
+  "cv3000.CurrentLocale": "Current locale is: %[1]s",
+  "cv3000.EmbedNewColorDescription": "(<==): Color changed from #%06[1]X to #%06[2]X.",
+  "cv3000.SwitchLocale": "Locale changed to %[1]s.",
+  "cv3000.UnavailableTranslator": "Translator is unavailable.",
+  "cv3000.TranslationResult": "Translation result",
+  "cv3000.DetectedLanguage": "Detected language",
+  "cv3000.TranslatedText": "Translated text"
+}
